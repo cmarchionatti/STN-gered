@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Users\\carlos.marchionatti\\AppData\\Local\\Microsoft\\WindowsApps\\python3.13.exe",
+    "python.terminal.activateEnvironment": false,
+    "python.analysis.extraPaths": [
+        "C:\\Users\\carlos.marchionatti\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages"
+    ]
+}
