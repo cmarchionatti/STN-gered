@@ -5,6 +5,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from pmdarima import auto_arima
+from statsmodels.stats.diagnostic import acorr_ljungbox, het_arch
+from statsmodels.stats.stattools import jarque_bera
 
 warnings.filterwarnings("ignore")
 
@@ -23,6 +25,55 @@ def calcular_metricas(y_real, y_prev):
     mask = y_real != 0
     mape = float(np.mean(np.abs(erro[mask] / y_real[mask])) * 100) if mask.any() else np.nan
     return rmse, mae, mape
+
+
+# =========================
+# DIAGNÓSTICO DE RESÍDUOS
+# =========================
+def diagnosticos_residuos(modelo, uf, tipo_modelo, alpha=0.05):
+    """Ljung-Box, Jarque-Bera e ARCH-LM nos resíduos do modelo final; imprime veredicto."""
+    if modelo is None:
+        print(f"DIAG {uf} | {tipo_modelo} | naive: sem resíduos para testar")
+        return
+    try:
+        # descarta o warm-up do filtro de Kalman: primeiros d+D*m resíduos são degenerados
+        resid = np.asarray(modelo.arima_res_.resid, dtype=float)
+        d = modelo.order[1]
+        D = modelo.seasonal_order[1] if len(modelo.seasonal_order) >= 2 else 0
+        m = modelo.seasonal_order[3] if len(modelo.seasonal_order) >= 4 else 0
+        burn = int(d + D * m)
+        resid = resid[burn:]
+        resid = resid[np.isfinite(resid)]
+        if resid.size < 20:
+            print(f"DIAG {uf} | {tipo_modelo} | resíduos insuficientes ({resid.size}) para diagnóstico")
+            return
+        lags_lb = min(12, resid.size // 2 - 1)
+        lb_p = float(acorr_ljungbox(resid, lags=[lags_lb], return_df=True)["lb_pvalue"].iloc[0])
+        _, jb_p, _, _ = jarque_bera(resid)
+        lags_arch = min(12, resid.size // 5)
+        _, arch_p, _, _ = het_arch(resid, nlags=lags_arch)
+        # Não-normalidade sozinha não invalida coeficientes/significâncias (validade assintótica);
+        # só LB (autocorrelação) e ARCH (heteroscedasticidade) são considerados problemas críticos.
+        problemas = []
+        if lb_p < alpha:
+            problemas.append(f"autocorr(LB p={lb_p:.3f})")
+        if arch_p < alpha:
+            problemas.append(f"heteroced.(ARCH p={arch_p:.3f})")
+        alertas = []
+        if jb_p < alpha:
+            alertas.append(f"nao-normal(JB p={jb_p:.3f})")
+        if problemas:
+            veredicto = "MODELO COM PROBLEMAS -> " + "; ".join(problemas)
+            if alertas:
+                veredicto += " | alerta: " + "; ".join(alertas)
+        else:
+            veredicto = "MODELO OK" + (" (alerta: " + "; ".join(alertas) + ")" if alertas else "")
+        print(
+            f"DIAG {uf} | {tipo_modelo} | "
+            f"LB({lags_lb}) p={lb_p:.3f} | JB p={jb_p:.3f} | ARCH({lags_arch}) p={arch_p:.3f} | {veredicto}"
+        )
+    except Exception as e:
+        print(f"DIAG {uf} | {tipo_modelo} | diagnóstico falhou: {e}")
 
 
 # HOLDOUT calculado por UF: 25 % da série, mínimo 12 meses (ver dentro do loop)
@@ -312,6 +363,8 @@ for uf in ufs:
 
     previsao = np.asarray(previsao, dtype=float)
     conf_int = np.asarray(conf_int, dtype=float)
+
+    diagnosticos_residuos(modelo, uf, tipo_modelo)
 
     for i, data in enumerate(datas_futuras):
         resultados_previsao.append({
