@@ -81,14 +81,14 @@ def diagnosticos_residuos(modelo, uf, tipo_modelo, alpha=0.05):
 # =========================
 # ARQUIVOS
 # =========================
-arquivo_icms = Path(r"C:\Users\carlos.marchionatti\OneDrive - Tesouro Nacional\VSCode\STN\Planilhas\rreo_anexo3_todos_anos.xlsx")
-arquivo_pib  = Path(r"C:\Users\carlos.marchionatti\OneDrive - Tesouro Nacional\VSCode\STN\Planilhas\Grade SPE 05 03 2026.xlsx")
+arquivo_icms = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Planilhas\rreo_anexo3_todos_anos.xlsx")
+arquivo_pib  = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Planilhas\Grade SPE 05 03 2026.xlsx")
 
-pasta_planilhas = Path(r"C:\Users\carlos.marchionatti\OneDrive - Tesouro Nacional\VSCode\STN\Planilhas")
+pasta_planilhas = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Planilhas")
 pasta_planilhas.mkdir(parents=True, exist_ok=True)
 saida_excel = pasta_planilhas / "previsoes_icms_estados_com_pib.xlsx"
 
-pasta_graficos = Path(r"C:\Users\carlos.marchionatti\OneDrive - Tesouro Nacional\VSCode\STN\Gráficos\graficos_previsao_icms_estados_com_pib")
+pasta_graficos = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Gráficos\graficos_previsao_icms_estados_com_pib")
 pasta_graficos.mkdir(parents=True, exist_ok=True)
 
 # =========================
