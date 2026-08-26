@@ -5,6 +5,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 from pmdarima import auto_arima
+from pmdarima.arima import ARIMA
 from statsmodels.stats.diagnostic import acorr_ljungbox, het_arch
 from statsmodels.stats.stattools import jarque_bera
 
@@ -30,23 +31,33 @@ def calcular_metricas(y_real, y_prev):
 # =========================
 # DIAGNÓSTICO DE RESÍDUOS
 # =========================
-def diagnosticos_residuos(modelo, uf, tipo_modelo, alpha=0.05):
-    """Ljung-Box, Jarque-Bera e ARCH-LM nos resíduos do modelo final; imprime veredicto."""
+def diagnosticos_residuos(modelo, uf, tipo_modelo, y_index=None, alpha=0.05):
+    """Ljung-Box, Jarque-Bera e ARCH-LM nos resíduos do modelo final; imprime veredicto.
+
+    Retorna dict com {'arch_p', 'arch_lags', 'resid', 'datas'} ou None se não aplicável.
+    """
     if modelo is None:
         print(f"DIAG {uf} | {tipo_modelo} | naive: sem resíduos para testar")
-        return
+        return None
     try:
         # descarta o warm-up do filtro de Kalman: primeiros d+D*m resíduos são degenerados
-        resid = np.asarray(modelo.arima_res_.resid, dtype=float)
+        resid_full = np.asarray(modelo.arima_res_.resid, dtype=float)
         d = modelo.order[1]
         D = modelo.seasonal_order[1] if len(modelo.seasonal_order) >= 2 else 0
         m = modelo.seasonal_order[3] if len(modelo.seasonal_order) >= 4 else 0
         burn = int(d + D * m)
-        resid = resid[burn:]
-        resid = resid[np.isfinite(resid)]
+        resid = resid_full[burn:]
+        # datas alinhadas aos resíduos (após o burn-in), quando disponíveis
+        datas = None
+        if y_index is not None and len(y_index) >= len(resid_full):
+            datas = pd.DatetimeIndex(y_index[burn: burn + len(resid)])
+        mask_fin = np.isfinite(resid)
+        resid = resid[mask_fin]
+        if datas is not None:
+            datas = datas[mask_fin]
         if resid.size < 20:
             print(f"DIAG {uf} | {tipo_modelo} | resíduos insuficientes ({resid.size}) para diagnóstico")
-            return
+            return None
         lags_lb = min(12, resid.size // 2 - 1)
         lb_p = float(acorr_ljungbox(resid, lags=[lags_lb], return_df=True)["lb_pvalue"].iloc[0])
         _, jb_p, _, _ = jarque_bera(resid)
@@ -72,11 +83,21 @@ def diagnosticos_residuos(modelo, uf, tipo_modelo, alpha=0.05):
             f"DIAG {uf} | {tipo_modelo} | "
             f"LB({lags_lb}) p={lb_p:.3f} | JB p={jb_p:.3f} | ARCH({lags_arch}) p={arch_p:.3f} | {veredicto}"
         )
+        return {"arch_p": float(arch_p), "arch_lags": int(lags_arch), "resid": resid, "datas": datas}
     except Exception as e:
         print(f"DIAG {uf} | {tipo_modelo} | diagnóstico falhou: {e}")
+        return None
 
 
 # HOLDOUT calculado por UF: 25 % da série, mínimo 12 meses (ver dentro do loop)
+
+# Espaço de busca reduzido do auto_arima (backtest); refit final não roda auto_arima.
+AUTO_ARIMA_KW = dict(
+    seasonal=True, m=12, stepwise=True, suppress_warnings=True,
+    error_action="ignore", information_criterion="aicc",
+    max_p=2, max_q=2, max_P=1, max_Q=1, max_D=1, max_d=1,
+    with_intercept=True,
+)
 
 # =========================
 # ARQUIVOS
@@ -90,6 +111,9 @@ saida_excel = pasta_planilhas / "previsoes_icms_estados_com_pib.xlsx"
 
 pasta_graficos = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Gráficos\graficos_previsao_icms_estados_com_pib")
 pasta_graficos.mkdir(parents=True, exist_ok=True)
+
+pasta_graficos_resid = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Gráficos\graficos_residuos_arch")
+pasta_graficos_resid.mkdir(parents=True, exist_ok=True)
 
 # =========================
 # MAPEAMENTO DAS COLUNAS MENSAIS DO PERÍODO 6
@@ -185,6 +209,33 @@ dfs_exog = {
 }
 
 # =========================
+# DUMMIES DE CRISE
+# =========================
+# Absorvem os choques que geram heteroscedasticidade condicional (ARCH).
+CRISES = [
+    ("d_crise_br", "2015-01-01", "2016-12-31"),
+    ("d_pandemia", "2020-03-01", "2020-12-31"),
+]
+
+def build_crisis_dummies(dates):
+    dt = pd.DatetimeIndex(dates)
+    d = pd.DataFrame(index=dt)
+    for nome, ini, fim in CRISES:
+        mask = (dt >= pd.Timestamp(ini)) & (dt <= pd.Timestamp(fim))
+        d[nome] = np.asarray(mask, dtype=int)
+    return d
+
+
+def build_outlier_dummies(datas_outliers, index_hist, index_fut):
+    cols = [f"out_{pd.Timestamp(d).strftime('%Y%m')}" for d in datas_outliers]
+    X_hist = pd.DataFrame(0, index=pd.DatetimeIndex(index_hist), columns=cols)
+    for d, c in zip(datas_outliers, cols):
+        if pd.Timestamp(d) in X_hist.index:
+            X_hist.loc[pd.Timestamp(d), c] = 1
+    X_fut = pd.DataFrame(0, index=pd.DatetimeIndex(index_fut), columns=cols)
+    return X_hist, X_fut
+
+# =========================
 # AJUSTE E PREVISÃO
 # =========================
 resultados_previsao = []
@@ -248,6 +299,17 @@ for uf in ufs:
 
         exogs[nome] = (X_uf, X_fut_uf)
 
+    # dummies de crise concatenadas em todas as exógenas + candidato só-dummies
+    dummies_hist = build_crisis_dummies(y.index)
+    dummies_fut = build_crisis_dummies(datas_futuras)
+    for nome in list(exogs):
+        X_uf, X_fut_uf = exogs[nome]
+        exogs[nome] = (
+            pd.concat([X_uf, dummies_hist], axis=1),
+            pd.concat([X_fut_uf, dummies_fut], axis=1),
+        )
+    exogs["dummies"] = (dummies_hist.copy(), dummies_fut.copy())
+
     # =========================
     # BACKTEST (holdout dos últimos HOLDOUT meses)
     # =========================
@@ -264,11 +326,7 @@ for uf in ufs:
         X_treino = X_uf.iloc[:-HOLDOUT]
         X_teste = X_uf.iloc[-HOLDOUT:]
         try:
-            m = auto_arima(y_treino_log, X=X_treino, seasonal=True, m=12,
-                           stepwise=True, suppress_warnings=True,
-                           error_action="ignore", information_criterion="aicc",
-                           max_p=3, max_q=3, max_P=2, max_Q=2, max_D=1,
-                           with_intercept=True)
+            m = auto_arima(y_treino_log, X=X_treino, **AUTO_ARIMA_KW)
             prev = np.exp(m.predict(n_periods=HOLDOUT, X=X_teste))
             candidatos[f"SARIMAX_{nome}"] = (m, prev)
         except Exception as e:
@@ -276,11 +334,7 @@ for uf in ufs:
 
     # candidato SARIMA puro (sem exógena)
     try:
-        m2 = auto_arima(y_treino_log, seasonal=True, m=12,
-                        stepwise=True, suppress_warnings=True,
-                        error_action="ignore", information_criterion="aicc",
-                        max_p=3, max_q=3, max_P=2, max_Q=2, max_D=1,
-                        with_intercept=True)
+        m2 = auto_arima(y_treino_log, **AUTO_ARIMA_KW)
         prev2 = np.exp(m2.predict(n_periods=HOLDOUT))
         candidatos["SARIMA_puro"] = (m2, prev2)
     except Exception as e:
@@ -315,37 +369,25 @@ for uf in ufs:
         X_full, X_fut = None, None
 
     # =========================
-    # REAJUSTE FINAL com toda a série usando o tipo vencedor
+    # REAJUSTE FINAL com toda a série usando a ORDEM já escolhida (sem re-buscar).
     # =========================
     try:
-        if melhor_nome.startswith("SARIMAX_"):
-            modelo = auto_arima(y_log, X=X_full, seasonal=True, m=12,
-                                stepwise=True, suppress_warnings=True,
-                                error_action="ignore", information_criterion="aicc",
-                                max_p=3, max_q=3, max_P=2, max_Q=2, max_D=1,
-                                with_intercept=True)
-            prev_log, conf_int_log = modelo.predict(n_periods=horizonte, X=X_fut,
-                                                    return_conf_int=True, alpha=0.05)
-            previsao = np.exp(prev_log)
-            conf_int = np.exp(conf_int_log)
-            tipo_modelo = melhor_nome
-        elif melhor_nome == "SARIMA_puro":
-            modelo = auto_arima(y_log, seasonal=True, m=12,
-                                stepwise=True, suppress_warnings=True,
-                                error_action="ignore", information_criterion="aicc",
-                                max_p=3, max_q=3, max_P=2, max_Q=2, max_D=1,
-                                with_intercept=True)
-            prev_log, conf_int_log = modelo.predict(n_periods=horizonte,
-                                                    return_conf_int=True, alpha=0.05)
-            previsao = np.exp(prev_log)
-            conf_int = np.exp(conf_int_log)
-            tipo_modelo = "SARIMA_puro"
-        else:  # naive_sazonal
+        if melhor_nome in ("naive_sazonal",):
             modelo = None
-            # y_{t} = y_{t-12}: para cada passo i (0..horizonte-1) pega o mesmo mês do ano anterior.
             previsao = np.array([y.iloc[-12 + i] for i in range(horizonte)])
             conf_int = np.column_stack([previsao * 0.9, previsao * 1.1])
             tipo_modelo = "naive_sazonal"
+        else:
+            best = candidatos[melhor_nome][0]
+            modelo = ARIMA(order=best.order, seasonal_order=best.seasonal_order,
+                           with_intercept=True, suppress_warnings=True)
+            modelo.fit(y_log, X=X_full)
+            prev_log, conf_int_log = modelo.predict(
+                n_periods=horizonte, X=X_fut, return_conf_int=True, alpha=0.05
+            )
+            previsao = np.exp(prev_log)
+            conf_int = np.exp(conf_int_log)
+            tipo_modelo = melhor_nome
     except Exception:
         # Fallback: ARIMAX sem sazonalidade, usando a primeira exógena disponível.
         nome_fb = next(iter(exogs)) if exogs else None
@@ -359,12 +401,71 @@ for uf in ufs:
         conf_int = np.exp(conf_int_log)
         tipo_modelo = f"ARIMAX_fallback_{nome_fb}" if nome_fb else "ARIMAX_fallback"
         exog_vencedora = nome_fb or ""
-        X_fut = X_fut_fb
+        X_full, X_fut = X_fb, X_fut_fb
 
     previsao = np.asarray(previsao, dtype=float)
     conf_int = np.asarray(conf_int, dtype=float)
 
-    diagnosticos_residuos(modelo, uf, tipo_modelo)
+    diag = diagnosticos_residuos(modelo, uf, tipo_modelo, y_index=y.index)
+
+    # Retry automático: se ARCH(12) < 0.05, marca outliers |resid|>3σ como impulse dummies
+    # e reajusta MANTENDO a mesma ordem (rápido). Cap de 10 outliers para evitar sobreajuste.
+    if diag is not None and diag["arch_p"] < 0.05 and modelo is not None and diag["datas"] is not None:
+        resid_d = diag["resid"]
+        datas_d = diag["datas"]
+        sigma = float(np.std(resid_d))
+        if np.isfinite(sigma) and sigma > 0:
+            absr = np.abs(resid_d)
+            idx_out = np.where(absr > 3 * sigma)[0]
+            if idx_out.size > 10:
+                idx_out = idx_out[np.argsort(absr[idx_out])[-10:]]
+            if idx_out.size > 0:
+                try:
+                    X_out_hist, X_out_fut = build_outlier_dummies(
+                        datas_d[idx_out], y.index, datas_futuras
+                    )
+                    if X_full is None:
+                        X_full_r, X_fut_r = X_out_hist, X_out_fut
+                    else:
+                        X_full_r = pd.concat([X_full, X_out_hist], axis=1)
+                        X_fut_r = pd.concat([X_fut, X_out_fut], axis=1)
+                    modelo_r = ARIMA(order=modelo.order, seasonal_order=modelo.seasonal_order,
+                                     with_intercept=True, suppress_warnings=True)
+                    modelo_r.fit(y_log, X=X_full_r)
+                    prev_log, conf_int_log = modelo_r.predict(
+                        n_periods=horizonte, X=X_fut_r, return_conf_int=True, alpha=0.05
+                    )
+                    previsao = np.exp(np.asarray(prev_log, dtype=float))
+                    conf_int = np.exp(np.asarray(conf_int_log, dtype=float))
+                    tipo_modelo = f"{tipo_modelo}+out{idx_out.size}"
+                    modelo = modelo_r
+                    X_full, X_fut = X_full_r, X_fut_r
+                    diag = diagnosticos_residuos(modelo, uf, tipo_modelo, y_index=y.index) or diag
+                except Exception as e:
+                    print(f"{uf} retry outliers falhou: {e}")
+
+    # Plot dos resíduos quando ARCH(12) indicar heterocedasticidade condicional (p < 0.05)
+    if diag is not None and diag["arch_p"] < 0.05:
+        resid_d = diag["resid"]
+        datas_d = diag["datas"]
+        eixo_x = datas_d if datas_d is not None else np.arange(len(resid_d))
+        fig, axes = plt.subplots(2, 1, figsize=(10, 6), sharex=True)
+        axes[0].plot(eixo_x, resid_d, color="steelblue")
+        axes[0].axhline(0, color="black", linewidth=0.8, alpha=0.6)
+        axes[0].set_title(
+            f"Resíduos - {uf} | {tipo_modelo} | "
+            f"ARCH({diag['arch_lags']}) p={diag['arch_p']:.3f}"
+        )
+        axes[0].set_ylabel("Resíduo")
+        axes[0].grid(True, alpha=0.3)
+        axes[1].plot(eixo_x, resid_d ** 2, color="firebrick")
+        axes[1].set_title("Resíduos ao quadrado (proxy de variância condicional)")
+        axes[1].set_ylabel("Resíduo²")
+        axes[1].set_xlabel("Data")
+        axes[1].grid(True, alpha=0.3)
+        fig.tight_layout()
+        fig.savefig(pasta_graficos_resid / f"residuos_arch_{uf}.png", dpi=200, bbox_inches="tight")
+        plt.close(fig)
 
     for i, data in enumerate(datas_futuras):
         resultados_previsao.append({
@@ -394,6 +495,7 @@ for uf in ufs:
         "rmse_SARIMAX_log_pib": metricas_uf.get("SARIMAX_log_pib", {}).get("rmse", np.nan),
         "rmse_SARIMAX_pib_var_12m": metricas_uf.get("SARIMAX_pib_var_12m", {}).get("rmse", np.nan),
         "rmse_SARIMAX_pib_var_mom": metricas_uf.get("SARIMAX_pib_var_mom", {}).get("rmse", np.nan),
+        "rmse_SARIMAX_dummies": metricas_uf.get("SARIMAX_dummies", {}).get("rmse", np.nan),
         "rmse_SARIMA_puro": metricas_uf.get("SARIMA_puro", {}).get("rmse", np.nan),
         "rmse_naive_sazonal": metricas_uf.get("naive_sazonal", {}).get("rmse", np.nan),
         "n_obs": len(y),
