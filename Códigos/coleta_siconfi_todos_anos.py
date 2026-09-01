@@ -28,7 +28,7 @@ BASE          = "https://apidatalake.tesouro.gov.br/ords/siconfi/tt"
 NO_ANEXO      = "RREO-Anexo 03"
 ANO_INICIAL          = 2015                       # primeiro ano com dados consolidados no SICONFI
 ANO_FINAL            = datetime.today().year      # ano atual (detectado automaticamente)
-BIMESTRE_ANO_ATUAL   = 2                          # bimestre a coletar no ANO ATUAL (1..6)
+BIMESTRE_ANO_ATUAL   = 3                          # bimestre a coletar no ANO ATUAL (1..6)
 BIMESTRE_ANOS_PASSADOS = 6                        # anos anteriores: sempre bimestre 6 (fechamento anual)
 FORCAR_COLETA_COMPLETA = False                    # True = refaz do zero; False = se já houver CSV, apenas anexa o novo bimestre
 CONTAS_INTERESSE     = ["ICMS", "IPVA", "ITCD"]   # apenas essas 3 contas são mantidas
@@ -37,7 +37,7 @@ DELAY_SEG            = 1.1                        # respeita limite de 1 req/s
 if BIMESTRE_ANO_ATUAL not in (1, 2, 3, 4, 5, 6):
     raise SystemExit("BIMESTRE_ANO_ATUAL deve ser um inteiro entre 1 e 6.")
 
-SAIDA_DIR     = Path(r"C:\Users\carlos.marchionatti\OneDrive - Tesouro Nacional\VSCode\STN\Planilhas")
+SAIDA_DIR     = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Planilhas")
 SAIDA_XLSX    = SAIDA_DIR / "rreo_anexo3_todos_anos.xlsx"
 SAIDA_CSV     = SAIDA_DIR / "rreo_anexo3_todos_anos.csv"
 

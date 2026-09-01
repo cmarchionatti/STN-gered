@@ -1,328 +1,4 @@
 ﻿exercicio,demonstrativo,periodo,periodicidade,instituicao,cod_ibge,uf,populacao,anexo,esfera,rotulo,coluna,cod_conta,conta,valor,uf_consulta,id_ente_consulta,ano_consulta,periodo_consulta
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,603745048.6,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,678175828.61,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,653453503.36,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,704893058.84,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,74869168.58,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,64023054.38,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,81075860.69,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,73888744.58,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5579412.49,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4859700.37,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3810026.37,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4369983.16,RO,11,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,200115179.75,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,129949782.44,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,246950618.2,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,209080936.4,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,13222727.63,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,13359669.29,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,23102081.87,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,18111633.62,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,996590.91,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,402660.82,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1298071.37,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,631087.28,AC,12,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1378876098.51,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1246859891.11,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2023535528.2,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1342789093.53,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,77875047.03,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,46179930.53,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,67367974.36,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,56425018.18,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5655563.09,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2311121.85,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2185391.9,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2251757.21,AM,13,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,171587119.15,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,163405818.83,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,162701794.56,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,196955044.72,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11119087.96,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,20771581.19,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,14729904.76,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11204723.84,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,202164.89,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,285215.24,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,883347.55,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,483246.08,RR,14,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2243784561.15,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1963564568.68,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1870118199.62,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2163132391.97,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,101464670.57,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,97172724.84,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,164908683.28,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,143466105.04,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4645339.5,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5454951.74,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5981364.27,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3625052.3,PA,15,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,150408040.42,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,133849972.59,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,142192060.71,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,129246640.81,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,8697805.28,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,10693305.02,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,40949264.68,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,18090104.65,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,215783.88,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,209919.68,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,444961.83,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,517595.04,AP,16,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,524773200.15,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,451671685.9,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,507999915.75,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,563633305.03,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,73072724.88,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,47266521.15,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,28685029.05,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,24962210.13,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4551609.4,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5484265.92,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7308432.24,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6455905.61,TO,17,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1502033134.32,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1193992707.34,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1304828741.64,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1509759120.12,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,96449112.6,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,176506668.28,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,216515221.0,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,128757084.74,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4816861.73,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,43156020.54,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5528808.65,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6080422.25,MA,21,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,791797624.93,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,720099765.32,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,679758370.35,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,774001802.81,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,326218086.17,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,77346179.14,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,101561812.0,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,45086442.24,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2819182.81,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4305825.04,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3050529.23,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4909162.89,PI,22,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1949535879.36,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1694766022.59,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1701933699.57,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1875995795.96,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,546004225.42,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,319991383.27,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,324915658.66,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,298759255.39,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9055671.11,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,11054141.05,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17971749.12,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9201951.58,CE,23,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,881982375.21,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,788184002.38,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,796382722.11,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,895513366.47,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,34172653.07,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,30406024.95,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,60361946.11,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,74407153.35,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1925189.31,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3376485.08,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4287276.9,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2782116.83,RN,24,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,981076876.12,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,921042477.37,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,824974948.06,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,975475391.24,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,83615817.59,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,81630639.49,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,92290963.86,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,83624640.45,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6636587.59,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5557361.94,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6413859.27,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6364578.61,PB,25,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2440721958.53,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2264602717.12,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2182766440.82,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2454086577.92,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,242106240.66,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,564548398.95,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,232069848.39,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,175490125.74,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,25533594.83,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17073710.58,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,118471038.25,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,20572930.09,PE,26,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,870006139.05,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,792896154.81,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,780451854.15,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,824734152.73,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,102077160.23,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,56623274.02,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,64307068.25,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,67765128.86,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6864362.87,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6452799.71,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7537891.01,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7178517.22,AL,27,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,572775218.28,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,499904893.35,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,476969822.28,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,528632255.3,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,35298215.54,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,32480925.85,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,133877007.32,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,49732249.75,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1481480.81,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1318893.35,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2365291.59,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2850593.79,SE,28,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3626632225.28,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3459555345.34,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3202734683.68,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3582385022.96,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,320779284.53,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,604546968.16,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,163481271.07,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,152432729.64,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,29189009.63,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17320833.04,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,30043332.25,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,69933580.19,BA,29,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7361292703.96,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,6482680727.4,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7091797158.42,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7707660317.67,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1870630568.66,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,4354835700.91,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,2120422070.08,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1850184304.72,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,135831592.22,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,144314437.19,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,183252975.57,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,159204881.96,MG,31,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2114728297.62,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1958902962.58,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1762479758.06,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2113359780.88,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,79910383.3,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,69780935.32,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,193508334.1,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,408722839.13,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,13516558.54,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,34974167.94,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,24383190.99,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17741289.25,ES,32,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,6764278991.85,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5855159455.94,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5318618480.4,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7097018566.98,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1655883280.95,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1005617714.88,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,857510612.89,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,606061225.7,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,124124360.57,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,98090259.21,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,134325622.05,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,160135712.14,RJ,33,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19657331322.72,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19265505001.96,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19878945158.7,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,20407575413.54,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11549008961.19,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,4904758450.46,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,3941246133.32,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,3146595638.59,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,283938099.33,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,490916584.82,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,465303295.82,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,376384781.74,SP,35,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4728963771.55,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4253806039.47,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4590591050.09,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4935509552.08,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,2277894487.47,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,582169074.51,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,565103634.5,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,500519605.21,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,129639318.91,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,104628918.29,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,114077289.59,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,86359547.99,PR,41,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4105996923.02,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4013272408.96,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4103892968.88,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4243269195.54,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,358677111.7,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,392799787.84,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,512016998.66,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,466318408.04,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,114211198.28,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,69729877.6,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,106502593.67,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,75241095.92,SC,42,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4683287101.51,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4202258452.77,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4105210634.78,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4854461076.75,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,665832360.83,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,419849230.83,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,567675178.15,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1155676507.47,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,100323600.17,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,80561896.44,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,112271950.07,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,117200415.64,RS,43,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1452756707.66,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1379731667.07,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1439513960.83,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1558732795.53,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,526382968.19,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,99027520.3,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,109448527.4,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,94787865.6,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28447317.37,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,21322713.73,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,35329427.49,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,34346553.85,MS,50,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2171180279.25,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2204548526.84,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2199178188.68,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2357836772.44,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,104656533.09,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,123406318.79,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,359832912.37,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,333195584.8,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,62524675.43,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,12743038.88,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,33440806.39,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17340618.41,MT,51,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2717114020.98,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2537598083.69,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2511761644.58,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2847791488.58,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,486695838.74,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,180353030.09,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,189378957.76,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,169954540.27,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,63390197.45,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,48661940.52,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,72931676.47,GO,52,2026,2
-2026,RREO,2,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,52642527.56,GO,52,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1226441865.66,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1015402736.02,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,981735421.45,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1230638190.72,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,183992003.7,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,637748558.09,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,205193338.15,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,178348256.54,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28730802.66,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,22305845.76,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28309304.06,DF,53,2026,2
-2026,RREO,2,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,22069806.6,DF,53,2026,2
 2025,RREO,6,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-11>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,626433546.28,RO,11,2025,6
 2025,RREO,6,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-10>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,572981556.79,RO,11,2025,6
 2025,RREO,6,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-9>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,586335536.06,RO,11,2025,6
@@ -12797,3 +12473,489 @@
 2015,RREO,6,B,Governo do Distrito Federal,53,DF,2852372,RREO-Anexo 03,E,,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,23170502.65,DF,53,2015,6
 2015,RREO,6,B,Governo do Distrito Federal,53,DF,2852372,RREO-Anexo 03,E,,TOTAL (ÚLTIMOS 12 MESES),ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,133417375.36,DF,53,2015,6
 2015,RREO,6,B,Governo do Distrito Federal,53,DF,2852372,RREO-Anexo 03,E,,PREVISÃO ATUALIZADA 2015,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,100967943.0,DF,53,2015,6
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,603745048.6,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,678175828.61,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,653453503.36,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,704893058.84,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,746366232.57,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,746052149.52,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,74869168.58,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,64023054.38,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,81075860.69,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,73888744.58,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,71904723.27,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,66973283.48,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5579412.49,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4859700.37,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3810026.37,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4369983.16,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3322619.35,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado de Rondônia,11,RO,1616379,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4489932.38,RO,11,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,200115179.75,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,129949782.44,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,246950618.2,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,209080936.4,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,200163446.92,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,208714626.91,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,13222727.63,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,13359669.29,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,23102081.87,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,18111633.62,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,19725777.79,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,19761838.31,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,996590.91,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,402660.82,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1298071.37,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,631087.28,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,951733.56,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Acre,12,AC,829780,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,543053.55,AC,12,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1378876098.51,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1246859891.11,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2023535528.2,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1342789093.53,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1398946650.11,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1432859691.96,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,77875047.03,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,46179930.53,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,67367974.36,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,56425018.18,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,57022318.99,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,57895165.49,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5655563.09,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2311121.85,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2185391.9,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2251757.21,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3333172.2,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado do Amazonas,13,AM,3952262,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1814845.26,AM,13,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,171587119.15,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,163405818.83,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,162701794.56,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,196955044.72,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,179616467.41,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,190036872.53,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11119087.96,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,20771581.19,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,14729904.76,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11204723.84,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,10169127.15,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11426092.33,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,202164.89,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,285215.24,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,883347.55,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,483246.08,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1104166.72,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado de Roraima,14,RR,634805,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,370645.13,RR,14,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2243784561.15,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1963564568.68,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1870118199.62,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2163132391.97,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2027162258.64,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2195342309.82,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,101464670.57,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,97172724.84,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,164908683.28,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,143466105.04,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,151569182.25,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,168481549.85,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4645339.5,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5454951.74,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5981364.27,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3625052.3,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9736331.95,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Pará,15,PA,8442962,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6096098.25,PA,15,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,150408040.42,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,133849972.59,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,142192060.71,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,129246640.81,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,160297506.97,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,151254695.7,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,8697805.28,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,10693305.02,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,40949264.68,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,18090104.65,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,10884930.17,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,13385928.47,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,215783.88,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,209919.68,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,444961.83,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,517595.04,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,372436.22,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Amapá,16,AP,774268,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,437971.03,AP,16,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,524773200.15,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,451671685.9,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,507999915.75,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,563633305.03,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,524162952.04,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,558336193.51,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,73072724.88,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,47266521.15,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,28685029.05,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,24962210.13,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,28531901.37,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,36910393.37,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4551609.4,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5484265.92,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7308432.24,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6455905.61,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5874419.2,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Tocantins,17,TO,1584306,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,8827027.73,TO,17,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1502033134.32,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1193992707.34,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1304828741.64,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1509759120.12,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1278934255.15,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1607847168.1,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,96449112.6,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,176506668.28,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,216515221.0,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,128757084.74,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,89899994.7,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,135306946.54,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4816861.73,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,43156020.54,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5528808.65,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6080422.25,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1978887.34,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Maranhão,21,MA,6800605,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5570662.07,MA,21,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,791797624.93,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,720099765.32,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,679758370.35,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,774001802.81,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,704801950.3,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,785725856.19,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,326218086.17,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,77346179.14,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,101561812.0,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,45086442.24,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,28802676.49,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,23426946.8,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2819182.81,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4305825.04,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3050529.23,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4909162.89,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2429043.69,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Piauí,22,PI,3270174,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2317407.08,PI,22,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1949535879.36,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1694766022.59,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1701933699.57,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1875995795.96,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1876369475.73,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1958826367.17,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,546004225.42,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,319991383.27,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,324915658.66,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,298759255.39,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,284529569.16,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,271107367.46,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9055671.11,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,11054141.05,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17971749.12,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9201951.58,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,20154563.02,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Ceará,23,CE,8936431,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,10350593.1,CE,23,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,881982375.21,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,788184002.38,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,796382722.11,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,895513366.47,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,793651525.95,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,770828215.85,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,34172653.07,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,30406024.95,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,60361946.11,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,74407153.35,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,88677303.91,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,92364164.09,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1925189.31,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,3376485.08,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4287276.9,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2782116.83,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2413757.47,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Norte,24,RN,3303953,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,9918878.61,RN,24,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,981076876.12,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,921042477.37,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,824974948.06,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,975475391.24,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,907409925.03,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,893328592.82,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,83615817.59,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,81630639.49,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,92290963.86,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,83624640.45,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,78667465.7,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,82979167.21,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6636587.59,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,5557361.94,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6413859.27,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6364578.61,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7079117.49,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado da Paraíba,25,PB,4030961,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7518671.36,PB,25,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2440721958.53,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2264602717.12,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2182766440.82,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2454086577.92,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2233674989.36,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2520006858.08,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,242106240.66,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,564548398.95,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,232069848.39,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,175490125.74,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,161145012.12,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,148239832.3,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,25533594.83,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17073710.58,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,118471038.25,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,20572930.09,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,13581970.68,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Pernambuco,26,PE,9051113,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17746074.56,PE,26,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,870006139.05,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,792896154.81,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,780451854.15,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,824734152.73,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,756804270.51,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,823616951.96,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,102077160.23,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,56623274.02,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,64307068.25,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,67765128.86,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,78928588.6,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,94886716.34,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6864362.87,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6452799.71,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7537891.01,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,7178517.22,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6312874.26,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Alagoas,27,AL,3125254,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,6895654.64,AL,27,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,572775218.28,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,499904893.35,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,476969822.28,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,528632255.3,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,534492621.46,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,530351469.33,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,35298215.54,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,32480925.85,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,133877007.32,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,49732249.75,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,42488857.22,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,41214466.42,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1481480.81,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,1318893.35,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2365291.59,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2850593.79,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,2277159.53,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado de Sergipe,28,SE,2211868,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,4040986.84,SE,28,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3626632225.28,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3459555345.34,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3202734683.68,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3582385022.96,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3441934418.04,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,3497266531.03,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,320779284.53,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,604546968.16,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,163481271.07,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,152432729.64,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,163969117.18,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,175917634.78,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,29189009.63,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17320833.04,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,30043332.25,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,69933580.19,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,26832647.78,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado da Bahia,29,BA,14659023,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,26997775.99,BA,29,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7361292703.96,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,6482680727.4,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7091797158.42,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7707660317.67,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7335111190.37,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7400686543.84,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1870630568.66,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,4354835700.91,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,2120422070.08,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1850184304.72,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,679927109.53,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,519182587.1,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,135831592.22,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,144314437.19,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,183252975.57,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,159204881.96,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,175966900.12,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado de Minas Gerais,31,MG,20732660,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,150090481.31,MG,31,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2114728297.62,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1958902962.58,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1762479758.06,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2113359780.88,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1942548533.41,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2137916531.91,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,79910383.3,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,69780935.32,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,193508334.1,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,408722839.13,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,136362040.49,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,129566627.84,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,13516558.54,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,34974167.94,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,24383190.99,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17741289.25,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,21530724.39,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Espírito Santo,32,ES,3975100,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,29849127.93,ES,32,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,6764278991.85,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5855159455.94,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5318618480.4,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,7097018566.98,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5816457396.95,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,5892177753.42,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1655883280.95,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1005617714.88,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,857510612.89,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,606061225.7,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,277745652.93,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,243852659.91,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,124124360.57,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,98090259.21,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,134325622.05,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,160135712.14,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,136281538.09,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado do Rio de Janeiro,33,RJ,16615526,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,184283278.63,RJ,33,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19657331322.72,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19265505001.96,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,19878945158.7,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,20407575413.54,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,20139895695.48,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,21807033687.9,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,11549008961.19,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,4904758450.46,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,3941246133.32,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,3146595638.59,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,2849923298.34,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,969086297.09,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,283938099.33,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,490916584.82,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,465303295.82,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,376384781.74,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,501154055.62,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado de São Paulo,35,SP,46024937,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,458011260.49,SP,35,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4728963771.55,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4253806039.47,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4590591050.09,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4935509552.08,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4313419056.42,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4537193769.56,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,2277894487.47,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,582169074.51,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,565103634.5,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,500519605.21,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,438824331.75,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,208213397.04,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,129639318.91,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,104628918.29,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,114077289.59,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,86359547.99,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,127070662.67,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado do Paraná,41,PR,11835379,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,101541387.82,PR,41,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4105996923.02,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4013272408.96,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4103892968.88,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4243269195.54,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4106337936.57,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4079319291.03,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,358677111.7,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,392799787.84,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,512016998.66,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,466318408.04,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,432554837.96,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,499172134.86,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,114211198.28,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,69729877.6,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,106502593.67,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,75241095.92,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,109533375.55,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado de Santa Catarina,42,SC,7762154,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,77984314.12,SC,42,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4683287101.51,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4202258452.77,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4105210634.78,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4854461076.75,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4519581260.28,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,4706017644.52,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,665832360.83,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,419849230.83,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,567675178.15,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,1155676507.47,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,586844291.64,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,328282402.05,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,100323600.17,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,80561896.44,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,112271950.07,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,117200415.64,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,119688087.16,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Rio Grande do Sul,43,RS,11088065,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,132271612.39,RS,43,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1452756707.66,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1379731667.07,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1439513960.83,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1558732795.53,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1400993455.63,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1471324921.19,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,526382968.19,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,99027520.3,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,109448527.4,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,94787865.6,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,81550586.71,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,54291655.39,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28447317.37,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,21322713.73,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,35329427.49,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,34346553.85,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,32804824.01,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso do Sul,50,MS,2833742,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,36399837.96,MS,50,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2171180279.25,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2204548526.84,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2199178188.68,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2357836772.44,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2123986344.15,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2254467035.21,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,104656533.09,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,123406318.79,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,359832912.37,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,333195584.8,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,359586259.21,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,221312670.03,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,62524675.43,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,12743038.88,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,33440806.39,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,17340618.41,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,14427419.52,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado do Mato Grosso,51,MT,3784239,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,19693348.17,MT,51,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2717114020.98,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2537598083.69,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2511761644.58,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2847791488.58,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2675833571.67,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,2875829796.84,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,486695838.74,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,180353030.09,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,189378957.76,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,169954540.27,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,169026613.87,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,178853561.75,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,63390197.45,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,48661940.52,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,72931676.47,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,52642527.56,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,70390608.17,GO,52,2026,3
+2026,RREO,3,B,Governo do Estado de Goiás,52,GO,6950976,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,108644166.51,GO,52,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-5>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1226441865.66,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-4>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1015402736.02,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,981735421.45,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1230638190.72,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1133584052.4,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,ICMSLiquidoExcetoTransferenciasEFUNDEB,ICMS,1285717148.3,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-5>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,183992003.7,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-4>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,637748558.09,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,205193338.15,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,178348256.54,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,169674576.5,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,IPVALiquidoExcetoTransferenciasEFUNDEB,IPVA,176253899.09,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-5>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28730802.66,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-4>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,22305845.76,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-3>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,28309304.06,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-2>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,22069806.6,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR-1>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,22126212.02,DF,53,2026,3
+2026,RREO,3,B,Governo do Distrito Federal,53,DF,2923369,RREO-Anexo 03,E,Padrão,<MR>,ITCDLiquidoExcetoTransferenciasEFUNDEB,ITCD,23779984.39,DF,53,2026,3
