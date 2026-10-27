@@ -28,7 +28,7 @@ BASE          = "https://apidatalake.tesouro.gov.br/ords/siconfi/tt"
 NO_ANEXO      = "RREO-Anexo 03"
 ANO_INICIAL          = 2015                       # primeiro ano com dados consolidados no SICONFI
 ANO_FINAL            = datetime.today().year      # ano atual (detectado automaticamente)
-BIMESTRE_ANO_ATUAL   = 3                          # bimestre a coletar no ANO ATUAL (1..6)
+BIMESTRE_ANO_ATUAL   = 4                          # bimestre a coletar no ANO ATUAL (1..6)
 BIMESTRE_ANOS_PASSADOS = 6                        # anos anteriores: sempre bimestre 6 (fechamento anual)
 FORCAR_COLETA_COMPLETA = False                    # True = refaz do zero; False = se já houver CSV, apenas anexa o novo bimestre
 CONTAS_INTERESSE     = ["ICMS", "IPVA", "ITCD"]   # apenas essas 3 contas são mantidas
