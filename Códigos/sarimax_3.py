@@ -1,4 +1,4 @@
-"""Previsoes mensais de ICMS, IPVA e ITCD por UF, com base no sarimax_icms."""
+"""Previsoes mensais de ICMS, IPVA e ITCD por UF."""
 
 import warnings
 from pathlib import Path
