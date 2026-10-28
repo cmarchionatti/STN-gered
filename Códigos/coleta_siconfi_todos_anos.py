@@ -2,14 +2,19 @@
 coleta_siconfi_todos_anos.py
 ============================
 Baixa o RREO Anexo 03 (receitas tributárias) de todos os estados + DF
-para o máximo de anos disponíveis na API do SICONFI (a partir de 2013).
+de 2015 até o último bimestre encerrado.
 
 Saída: rreo_anexo3_todos_anos.xlsx  (e .csv de backup)
 
+Modos (MODO_COLETA):
+- 1: baixa novamente todo o histórico, mesmo que já exista no CSV.
+- 2: baixa somente anos/UFs cujo bimestre necessário ainda não consta no CSV.
+
 Estratégia:
-- Itera do ano mais recente (ano atual) até 2013.
-- Usa apenas o período 6 (fechamento do exercício) para garantir
-  os valores anuais definitivos de cada mês.
+- Itera do ano mais recente até 2015.
+- Usa o período 6 nos anos anteriores, pois contém os 12 meses do ano.
+- No ano atual, usa o último bimestre encerrado, mantendo os meses desde janeiro.
+- No modo 2, substitui apenas anos/UFs com novos dados retornados pela API.
 - Ignora anos/bimestres sem dados (HTTP 4xx ou listas vazias).
 - Respeita o limite de 1 req/s da API.
 """
@@ -28,14 +33,17 @@ BASE          = "https://apidatalake.tesouro.gov.br/ords/siconfi/tt"
 NO_ANEXO      = "RREO-Anexo 03"
 ANO_INICIAL          = 2015                       # primeiro ano com dados consolidados no SICONFI
 ANO_FINAL            = datetime.today().year      # ano atual (detectado automaticamente)
-BIMESTRE_ANO_ATUAL   = 4                          # bimestre a coletar no ANO ATUAL (1..6)
+BIMESTRE_ANO_ATUAL   = (datetime.today().month - 1) // 2
 BIMESTRE_ANOS_PASSADOS = 6                        # anos anteriores: sempre bimestre 6 (fechamento anual)
-FORCAR_COLETA_COMPLETA = False                    # True = refaz do zero; False = se já houver CSV, apenas anexa o novo bimestre
+MODO_COLETA         = 2
 CONTAS_INTERESSE     = ["ICMS", "IPVA", "ITCD"]   # apenas essas 3 contas são mantidas
 DELAY_SEG            = 1.1                        # respeita limite de 1 req/s
 
-if BIMESTRE_ANO_ATUAL not in (1, 2, 3, 4, 5, 6):
-    raise SystemExit("BIMESTRE_ANO_ATUAL deve ser um inteiro entre 1 e 6.")
+if MODO_COLETA not in (1, 2):
+    raise SystemExit("MODO_COLETA deve ser 1 (completo) ou 2 (somente dados ausentes).")
+
+if BIMESTRE_ANO_ATUAL not in (0, 1, 2, 3, 4, 5, 6):
+    raise SystemExit("BIMESTRE_ANO_ATUAL deve ser um inteiro entre 0 e 6.")
 
 SAIDA_DIR     = Path(r"C:\Users\carlos.marchionatti\GitHub - STN\STN-gered\Planilhas")
 SAIDA_XLSX    = SAIDA_DIR / "rreo_anexo3_todos_anos.xlsx"
@@ -73,35 +81,32 @@ linhas      = []
 erros       = []
 total_req   = 0
 anos        = list(range(ANO_FINAL, ANO_INICIAL - 1, -1))  # mais recente → mais antigo
+if BIMESTRE_ANO_ATUAL == 0:
+    anos = [ano for ano in anos if ano < ANO_FINAL]
 
-modo_incremental = SAIDA_CSV.exists() and not FORCAR_COLETA_COMPLETA
+modo_incremental = MODO_COLETA == 2 and SAIDA_CSV.exists()
+df_existente = pd.DataFrame()
+periodos_existentes = {}
 
 if modo_incremental:
-    # Checa qual bimestre do ano atual já está no CSV.
-    df_existente_check = pd.read_csv(SAIDA_CSV, usecols=["ano_consulta", "periodo_consulta"])
-    mask_ano_atual_exist = df_existente_check["ano_consulta"] == ANO_FINAL
-    bim_existente = (
-        int(df_existente_check.loc[mask_ano_atual_exist, "periodo_consulta"].max())
-        if mask_ano_atual_exist.any() else 0
+    df_existente = pd.read_csv(SAIDA_CSV)
+    periodos_existentes = (
+        df_existente.groupby(["ano_consulta", "uf_consulta"])["periodo_consulta"]
+        .max().to_dict()
     )
-    if BIMESTRE_ANO_ATUAL <= bim_existente:
-        print(f"Modo INCREMENTAL: CSV já contém {ANO_FINAL} até o bimestre {bim_existente}."
-              f" Nada a fazer para o bimestre {BIMESTRE_ANO_ATUAL}.")
-        raise SystemExit(0)
-
-    anos = [ANO_FINAL]
-    print(f"Modo INCREMENTAL: arquivo existente detectado (último bim. de {ANO_FINAL} no CSV = {bim_existente}).\n"
-          f"  Baixando {ANO_FINAL} bimestre {BIMESTRE_ANO_ATUAL} e substituindo os dados do ano atual.\n")
+    print("Modo 2 (INCREMENTAL): consultando somente anos/UFs com bimestre ausente.\n")
 else:
-    print(f"Modo COMPLETO: coletando anos {ANO_INICIAL}–{ANO_FINAL}  "
+    print(f"Modo {MODO_COLETA}: coletando anos {ANO_INICIAL}–{max(anos)}  "
           f"({len(anos)} anos × {len(ENTES_ESTADUAIS)} UFs)\n"
           f"  • anos anteriores: bimestre {BIMESTRE_ANOS_PASSADOS}\n"
-          f"  • ano atual ({ANO_FINAL}): bimestre {BIMESTRE_ANO_ATUAL}\n")
+          f"  • ano atual ({ANO_FINAL}): bimestre {BIMESTRE_ANO_ATUAL} (0 = nenhum encerrado)\n")
 
 for ano in anos:
     ok_ano = 0
     nr_periodo = BIMESTRE_ANO_ATUAL if ano == ANO_FINAL else BIMESTRE_ANOS_PASSADOS
     for uf, id_ente in ENTES_ESTADUAIS.items():
+        if periodos_existentes.get((ano, uf), 0) >= nr_periodo:
+            continue
         params = {
             "an_exercicio"          : ano,
             "nr_periodo"            : nr_periodo,
@@ -159,19 +164,24 @@ if not df_novo.empty and "coluna" in df_novo.columns:
           f"(mantém {len(colunas_ano_atual)} meses do ano atual: {colunas_ano_atual[-1]}…<MR>).")
 
 if modo_incremental and not df_novo.empty:
-    df_existente = pd.read_csv(SAIDA_CSV)
-    # Remove qualquer dado do ano atual já existente e substitui pelo novo download YTD.
-    linhas_ano_atual_antes = int((df_existente["ano_consulta"] == ANO_FINAL).sum())
-    df_existente = df_existente[df_existente["ano_consulta"] != ANO_FINAL].copy()
+    chaves = ["ano_consulta", "uf_consulta"]
+    chaves_novas = pd.MultiIndex.from_frame(df_novo[chaves].drop_duplicates())
+    mask_substituir = pd.MultiIndex.from_frame(df_existente[chaves]).isin(chaves_novas)
+    linhas_substituidas = int(mask_substituir.sum())
+    df_existente = df_existente.loc[~mask_substituir].copy()
     df = pd.concat([df_existente, df_novo], ignore_index=True)
-    print(f"Incremental: {len(df_existente)} linhas anteriores (removidas {linhas_ano_atual_antes} do ano atual) "
+    print(f"Incremental: {len(df_existente)} linhas anteriores (substituídas {linhas_substituidas}) "
           f"+ {len(df_novo)} novas = {len(df)} totais.")
+elif modo_incremental:
+    df = df_existente
 else:
     df = df_novo
 
 print(f"\nTotal de linhas: {len(df)}")
 if df.empty:
     print("Nenhum dado retornado. Verifique a conectividade com a API do SICONFI.")
+elif modo_incremental and df_novo.empty:
+    print("Nenhum dado novo coletado. CSV e Excel existentes preservados.")
 else:
     print(f"Colunas: {df.columns.tolist()}")
     print(f"Anos disponíveis: {sorted(df['ano_consulta'].unique())}")
@@ -184,6 +194,7 @@ else:
     print(f"  {SAIDA_CSV}")
 
 if erros:
+    SAIDA_DIR.mkdir(parents=True, exist_ok=True)
     df_erros = pd.DataFrame(erros)
     saida_erros = SAIDA_DIR / "rreo_coleta_erros.csv"
     df_erros.to_csv(saida_erros, index=False, encoding="utf-8-sig")
